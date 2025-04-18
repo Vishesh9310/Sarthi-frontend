@@ -1,0 +1,62 @@
+#root {
+  margin: 0px;
+  padding: 0px;
+  color: white;
+  background-color: #9EECFF;
+}
+
+/*
+D2F7FF
+9EECFF
+69E2FF
+35D7FF
+00CCFF
+*/
+
+.bg{
+  background-color: white;
+}
+
+.backg_teal{
+  background-color: #9EECFF;
+  color: black;
+}
+
+.form{
+  background-color: white;
+  color: #35D7FF;
+}
+
+.div{
+  background-color: white;
+  color: #35D7FF;
+}
+
+:hover.ele{
+  background-color: #35D7FF;
+  color: black;
+}
+
+.divheadingblack{
+  color: black;
+  font-weight: bold;
+}
+
+.button{
+  background-color: #35D7FF;
+}
+
+.button_border{
+  background-color: none;
+  border: 2px solid black;
+}
+
+.label{
+  background-color: white;
+  color: #35D7FF;
+}
+
+.footer{
+  background-color: #35D7FF;
+  color: black;
+}
